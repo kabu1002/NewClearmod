@@ -1,0 +1,7 @@
+name: "Nucleus MOD"
+displayname: "Nucleus MOD"
+auther: "kabu1002"
+discription: このMODはウランとかちょっと危険なものを追加するものだよ。
+version: "1"
+minGameVersion: "143.1"
+hidden: false
